@@ -1,10 +1,10 @@
-# 💬 ChatWith - Screenshots & Preview
+# 📇 Contact Manage - Screenshots & Preview
 
-Introducing **ChatWith** – a seamless messaging experience with intuitive design and smart features.
+Welcome to **Contact Manage** – an efficient solution to store, organize, and manage your personal and professional contacts with ease.
 
 📸 **App Screenshots**  
-Get a glimpse of the clean interface and functionality of ChatWith.
+Explore the user-friendly UI and powerful contact management features.
 
-🔗 [Click here to view the ChatWith screenshots](https://drive.google.com/file/d/1CjbVW-11sMCvTLs3DlBGiDFYhaqCB0Xe/view?usp=sharing)
+🔗 [Click here to view the Contact Manage screenshots](https://drive.google.com/file/d/1CjbVW-11sMCvTLs3DlBGiDFYhaqCB0Xe/view?usp=sharing)
 
 ---
